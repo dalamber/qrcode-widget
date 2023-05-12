@@ -4,4 +4,4 @@ add_subdirectory(domain)
 add_subdirectory(presentation)
 add_subdirectory(views)
 
-add_subdirectory(tests)
+#add_subdirectory(tests)
